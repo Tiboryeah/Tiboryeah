@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=920&lines=Full+Stack+Developer+%7C+IPN+-+ESCOM;React,+Next.js,+TypeScript+%26+Node.js;Python,+C%2FC%2B%2B,+FastAPI+%26+APIs+REST;Sockets+TCP%2FUDP+%26+Sistemas+Distribuidos;SQLite,+MongoDB,+PostgreSQL+%26+Cloud+GCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=920&lines=Ingeniero+en+Sistemas+Computacionales+%7C+IPN+-+ESCOM;Full+Stack+Developer+en+FabricSoft;React,+Next.js,+TypeScript+%26+Node.js;Python,+C%2FC%2B%2B,+FastAPI+%26+APIs+REST;Sockets+TCP%2FUDP+%26+Sistemas+Distribuidos;SQLite,+MongoDB,+PostgreSQL+%26+Cloud+GCP" alt="Typing SVG" />
 
 <br>
 
@@ -27,9 +27,9 @@
 
 ## Sobre mí
 
-Soy **Desarrollador Full Stack** y estudiante de **Ingeniería en Sistemas Computacionales** en la **Escuela Superior de Cómputo (ESCOM - IPN)**. Actualmente colaboro como **Desarrollador Full Stack en FabricSoft**, enfocado en la construcción de plataformas web de nivel empresarial, arquitecturas cliente-servidor robustas, APIs RESTful y gestión de bases de datos.
+Soy **Ingeniero en Sistemas Computacionales** egresado de la **Escuela Superior de Cómputo (ESCOM - IPN)** y **Desarrollador Full Stack**. Actualmente me desempeño como **Desarrollador Full Stack en FabricSoft**, enfocado en la construcción de plataformas web de nivel empresarial, arquitecturas cliente-servidor robustas, APIs RESTful y gestión de bases de datos.
 
-Mi formación combina el rigor de las ciencias de la computación —programación a bajo nivel en C/C++, redes y protocolos de transporte (TCP/UDP), sistemas operativos y especificación formal de software bajo estándares ISO/IEEE— con el desarrollo moderno de productos digitales en producción con React, Next.js, Node.js, Python y servicios en la nube.
+Mi formación como ingeniero en computación combina el rigor de las ciencias de la computación —programación a bajo nivel en C/C++, redes y protocolos de transporte (TCP/UDP), sistemas operativos, concurrencia y especificación formal de software bajo estándares ISO/IEEE— con el desarrollo de productos digitales en producción con React, Next.js, Node.js, Python y servicios en la nube.
 
 Mi enfoque técnico está orientado a:
 
@@ -56,7 +56,7 @@ Desarrollo de soluciones web integrales (frontend y backend) para plataformas em
 ---
 
 ### Kuxipilli — Plataforma Preventiva de Seguridad Digital
-**Trabajo Terminal — ESCOM IPN (2026)** · [Visitar Plataforma](https://kuxipilli.com/)
+**Proyecto de Titulación / Trabajo Terminal — ESCOM IPN** · [Visitar Plataforma](https://kuxipilli.com/)
 
 Plataforma preventiva orientada a padres de familia para el cuidado y acompañamiento en la seguridad digital de menores en entornos web.
 
@@ -144,7 +144,7 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
 
 | Proyecto | Descripción | Stack | Enlace |
 |---|---|---|:---:|
-| **Kuxipilli** | Plataforma preventiva familiar orientada a la seguridad digital infantil (Trabajo Terminal ESCOM 2026). | `React` `Node.js` `MongoDB` `SRS` | [Web](https://kuxipilli.com/) |
+| **Kuxipilli** | Plataforma preventiva familiar orientada a la seguridad digital infantil (Proyecto de Titulación / TT ESCOM). | `React` `Node.js` `MongoDB` `SRS` | [Web](https://kuxipilli.com/) |
 | **IntegrApex** | Sistema integral para administración y fiscalización de contratos de obra pública (LOPSRM). | `Express` `SQLite` `better-sqlite3` `RBAC` | [Repositorio](https://github.com/Tiboryeah/IntegrApex) |
 | **CV Interactivo & CLI** | Portafolio personal interactivo con consola de comandos tipo terminal embebida y diseño dark tech. | `React` `Vite` `JavaScript` `CSS3` | [Repositorio](https://github.com/Tiboryeah/CV_Tibo-) |
 | **MyLinks** | Centralizador de enlaces y portafolio minimalista de alta velocidad. | `Next.js` `TypeScript` `Tailwind CSS` | [Repositorio](https://github.com/Tiboryeah/MyLinks) |
@@ -163,7 +163,7 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Ingenier%C3%ADa-IPN%20ESCOM-6B21A8?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ESCOM IPN" />
+<img src="https://img.shields.io/badge/Ingeniero-IPN%20ESCOM-6B21A8?style=for-the-badge&logo=academic-tree&logoColor=white" alt="Ingeniero ESCOM IPN" />
 <img src="https://img.shields.io/badge/Empresa-FabricSoft-7E22CE?style=for-the-badge&logo=codeforces&logoColor=white" alt="FabricSoft" />
 <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-CDMX%2C%20M%C3%A9xico-581C87?style=for-the-badge&logo=google-maps&logoColor=white" alt="CDMX" />
 
