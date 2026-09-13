@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&fontColor=38BDF8&height=200&section=header&text=Gerardo%20Esteban&fontSize=52" alt="Gerardo Esteban Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0914,50:3B0764,100:7E22CE&fontColor=FFFFFF&height=200&section=header&text=Gerardo%20Esteban&fontSize=52" alt="Gerardo Esteban Header" />
 
-# 👋 Hola, soy Gerardo Esteban Martínez López
+# Hola, soy Gerardo Esteban Martínez López
 
 ### Full Stack Developer | Backend · Frontend · Sistemas Distribuidos · Cloud
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Full+Stack+Developer+%7C+IPN+-+ESCOM;React,+Next.js,+TypeScript+%26+Node.js;Python,+C%2FC%2B%2B,+FastAPI+%26+APIs+REST;Sockets+TCP%2FUDP+%26+Sistemas+Distribuidos;SQLite,+MongoDB,+PostgreSQL+%26+Cloud+GCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=920&lines=Full+Stack+Developer+%7C+IPN+-+ESCOM;React,+Next.js,+TypeScript+%26+Node.js;Python,+C%2FC%2B%2B,+FastAPI+%26+APIs+REST;Sockets+TCP%2FUDP+%26+Sistemas+Distribuidos;SQLite,+MongoDB,+PostgreSQL+%26+Cloud+GCP" alt="Typing SVG" />
 
 <br>
 
@@ -18,14 +18,14 @@
   <img src="https://img.shields.io/github/followers/Tiboryeah?label=Followers&style=social" alt="GitHub Followers" />
 </a>
 <a href="mailto:esteban_rock@outlook.es">
-  <img src="https://img.shields.io/badge/Email-esteban__rock%40outlook.es-0078D4?style=social&logo=microsoftoutlook" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-esteban__rock%40outlook.es-7E22CE?style=social&logo=microsoftoutlook" alt="Email" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy **Desarrollador Full Stack** y estudiante de **Ingeniería en Sistemas Computacionales** en la **Escuela Superior de Cómputo (ESCOM - IPN)**. Actualmente colaboro como **Desarrollador Full Stack en FabricSoft**, enfocado en la construcción de plataformas web de nivel empresarial, arquitecturas cliente-servidor robustas, APIs RESTful y gestión de bases de datos.
 
@@ -42,7 +42,7 @@ Mi enfoque técnico está orientado a:
 
 ---
 
-## 💼 Experiencia y Proyectos Profesionales
+## Experiencia y Proyectos Profesionales
 
 ### FabricSoft — Desarrollador Full Stack
 **Actualidad**
@@ -80,22 +80,22 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
 
 ### Proyectos de Sistemas, Redes & Automatización
 
-#### 🌐 Sistemas Cliente-Servidor con Sockets (TCP/UDP)
+#### Sistemas Cliente-Servidor con Sockets (TCP/UDP)
 - Implementación de programas cliente-servidor a bajo nivel en **C** y **Python** utilizando sockets directos del sistema operativo.
 - Pruebas de comunicación en red local y remota, manejo de concurrencia, transmisión de paquetes de datos y protocolos de transporte.
 
-#### 🤖 Cloud Bot & Automatización Administrativa
+#### Cloud Bot & Automatización Administrativa
 - Bot de administración y monitoreo desplegado en **Google Cloud Platform (Compute Engine)**.
 - Automatización de tareas operativas, control de eventos en tiempo real e integración con APIs de terceros.
 
-#### 🎮 Kokoro Souls (3 Souls)
+#### Kokoro Souls (3 Souls)
 - Videojuego interactivo de narrativa ramificada desarrollado en **Python / Ren'Py** con control complejo de estados, scripting de eventos y despliegue interactivo para web. · [Ver Demo](https://tiboryeah.github.io/kokoro-3-souls/index.html)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -107,7 +107,7 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### ⚙️ Backend & Lenguajes
+### Backend & Lenguajes
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -120,7 +120,7 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
-### 🗄️ Bases de Datos & Persistencia
+### Bases de Datos & Persistencia
 <p>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -128,7 +128,7 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### ☁️ Cloud, DevOps & Herramientas
+### Cloud, DevOps & Herramientas
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -140,38 +140,38 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
 
 ---
 
-## 🚀 Proyectos Seleccionados
+## Proyectos Seleccionados
 
 | Proyecto | Descripción | Stack | Enlace |
 |---|---|---|:---:|
-| **Kuxipilli** | Plataforma preventiva familiar orientada a la seguridad digital infantil (Trabajo Terminal ESCOM 2026). | `React` `Node.js` `MongoDB` `SRS` | [🔗 Web](https://kuxipilli.com/) |
-| **IntegrApex** | Sistema integral para administración y fiscalización de contratos de obra pública (LOPSRM). | `Express` `SQLite` `better-sqlite3` `RBAC` | [📂 Repo](https://github.com/Tiboryeah/IntegrApex) |
-| **CV Interactivo & CLI** | Portafolio personal interactivo con consola de comandos tipo terminal embebida y diseño dark tech. | `React` `Vite` `JavaScript` `CSS3` | [📂 Repo](https://github.com/Tiboryeah/CV_Tibo-) |
-| **MyLinks** | Centralizador de enlaces y portafolio minimalista de alta velocidad. | `Next.js` `TypeScript` `Tailwind CSS` | [📂 Repo](https://github.com/Tiboryeah/MyLinks) |
-| **Kokoro Souls (3 Souls)** | Videojuego interactivo con gestión de máquina de estados, narrativa ramificada y lógica en Python. | `Python` `Ren'Py` `Game Logic` | [🎮 Demo](https://tiboryeah.github.io/kokoro-3-souls/index.html) |
-| **Discord Server Bot** | Bot desplegado en GCP para administración de servidor, comandos y automatización operativa. | `Python` `Google Cloud` `APIs` | [📂 Repo](https://github.com/Tiboryeah/discord-voice-bot) |
+| **Kuxipilli** | Plataforma preventiva familiar orientada a la seguridad digital infantil (Trabajo Terminal ESCOM 2026). | `React` `Node.js` `MongoDB` `SRS` | [Web](https://kuxipilli.com/) |
+| **IntegrApex** | Sistema integral para administración y fiscalización de contratos de obra pública (LOPSRM). | `Express` `SQLite` `better-sqlite3` `RBAC` | [Repositorio](https://github.com/Tiboryeah/IntegrApex) |
+| **CV Interactivo & CLI** | Portafolio personal interactivo con consola de comandos tipo terminal embebida y diseño dark tech. | `React` `Vite` `JavaScript` `CSS3` | [Repositorio](https://github.com/Tiboryeah/CV_Tibo-) |
+| **MyLinks** | Centralizador de enlaces y portafolio minimalista de alta velocidad. | `Next.js` `TypeScript` `Tailwind CSS` | [Repositorio](https://github.com/Tiboryeah/MyLinks) |
+| **Kokoro Souls (3 Souls)** | Videojuego interactivo con gestión de máquina de estados, narrativa ramificada y lógica en Python. | `Python` `Ren'Py` `Game Logic` | [Demo](https://tiboryeah.github.io/kokoro-3-souls/index.html) |
+| **Discord Server Bot** | Bot desplegado en GCP para administración de servidor, comandos y automatización operativa. | `Python` `Google Cloud` `APIs` | [Repositorio](https://github.com/Tiboryeah/discord-voice-bot) |
 
 ---
 
-## 📊 Métricas y Actividad
+## Métricas y Actividad
 
 <div align="center">
 
 <a href="https://github.com/Tiboryeah">
-  <img src="https://streak-stats.demolab.com/?user=Tiboryeah&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Tiboryeah&theme=tokyonight&hide_border=true&background=0b0914&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak Stats" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Ingenier%C3%ADa-IPN%20ESCOM-800020?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ESCOM IPN" />
-<img src="https://img.shields.io/badge/Empresa-FabricSoft-0284C7?style=for-the-badge&logo=codeforces&logoColor=white" alt="FabricSoft" />
-<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-CDMX%2C%20M%C3%A9xico-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="CDMX" />
+<img src="https://img.shields.io/badge/Ingenier%C3%ADa-IPN%20ESCOM-6B21A8?style=for-the-badge&logo=academic-tree&logoColor=white" alt="ESCOM IPN" />
+<img src="https://img.shields.io/badge/Empresa-FabricSoft-7E22CE?style=for-the-badge&logo=codeforces&logoColor=white" alt="FabricSoft" />
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-CDMX%2C%20M%C3%A9xico-581C87?style=for-the-badge&logo=google-maps&logoColor=white" alt="CDMX" />
 
 </div>
 
 ---
 
-## 📬 Conecta conmigo
+## Contacto
 
 <div align="center">
 
@@ -180,7 +180,7 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
 <br>
 
 <a href="mailto:esteban_rock@outlook.es">
-  <img src="https://img.shields.io/badge/Email-esteban__rock%40outlook.es-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  <img src="https://img.shields.io/badge/Email-esteban__rock%40outlook.es-7E22CE?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
 </a>
 <a href="https://github.com/Tiboryeah">
   <img src="https://img.shields.io/badge/GitHub-Tiboryeah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -188,6 +188,6 @@ Plataforma integral diseñada para la administración y fiscalización del ciclo
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E22CE,50:3B0764,100:0B0914&height=100&section=footer" alt="Footer Banner" />
 
 </div>
